@@ -1,6 +1,6 @@
-# spacex-tracker
+# SpaceX Launch Tracker in Vue 3
 
-This template should help get you started developing with Vue 3 in Vite.
+Build a SpaceX Launch Tracker using Vue 3 and the SpaceX REST API. This step-by-step guide teaches modern web development by creating a launch tracking application. You'll learn REST API integration, component architecture and functionality using Vue 3's Composition API. The app features upcoming launches display, past mission exploration, and launch detail views. Perfect for developers looking to master Vue 3 and REST API integration while building a practical, data-driven application.
 
 ## Recommended IDE Setup
 
